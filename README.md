@@ -5,15 +5,15 @@
 </p>
 
 ## 📑 İçindekiler
-1. [🚀 Merhaba ve Giriş](#-merhaba-ve-giriş)
-2. [📖 Hakkımda Daha Fazlası](#-hakkımda-daha-fazlası)
-3. [🛠️ Teknik Yetenekler ve Araç Çantası](#️-teknik-yetenekler-ve-araç-çantası)
+1.[🚀 Merhaba ve Giriş](#-merhaba-ve-giriş)
+2.[📖 Hakkımda Daha Fazlası](#-hakkımda-daha-fazlası)
+3.[🛠️ Teknik Yetenekler ve Araç Çantası](#️-teknik-yetenekler-ve-araç-çantası)
 4.[🌐 Web Geliştirme (Frontend & Backend)](#-web-geliştirme-frontend--backend)
 5.[💻 Yazılım & Sistem](#-yazılım--sistem)
-6. [📈 Yazılım Yolculuğum ve İstatistikler](#-yazılım-yolculuğum-ve-istatistikler)
-7. [🤝 İş Birliği ve İletişim](#-iş-birliği-ve-iletişim)
-8. [💬 Benimle Bağlantı Kurun](#-benimle-bağlantı-kurun)
-9. [⚡ Eğlenceli Gerçekler (Fun Facts)](#-eğlenceli-gerçekler)
+6.[📈 Yazılım Yolculuğum ve İstatistikler](#-yazılım-yolculuğum-ve-istatistikler)
+7.[🤝 İş Birliği ve İletişim](#-iş-birliği-ve-iletişim)
+8.[💬 Benimle Bağlantı Kurun](#-benimle-bağlantı-kurun)
+9.[⚡ Eğlenceli Gerçekler (Fun Facts)](#-eğlenceli-gerçekler)
 
 ---
 
