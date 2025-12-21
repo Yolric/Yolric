@@ -193,7 +193,5 @@ Eğer projelerimi beğendiyseniz veya üzerinde konuşmak istediğiniz bir fikri
 
 
 <p align="center">
-
-  
   <i>Bu profil <b>Emir Hüseyin Yüce</b> tarafından tutkuyla geliştirilmiştir. © 2025</i>
 </p>
