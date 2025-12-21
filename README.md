@@ -209,7 +209,7 @@ Eğer projelerimi beğendiyseniz veya üzerinde konuşmak istediğiniz bir fikri
 
 * **📫 E-posta:** emirhuseyinyuce@gmail.com 
 * **💬 Discord:** $\color{cyan}{\text{Nick: emirhuseyin}}$
-* **🌐 Medya:** İnstagram:https://www.instagram.com/yolric.css_bittimi?igsh=cG83MnN4anZmZWds
+* **🌐 Medya:** $\color{Green}{\text{İnstagram: yolric.css_bittimi }}$
 
 
 
