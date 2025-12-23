@@ -49,7 +49,7 @@
 
 
 
-## 🚀 Merhaba ve Giriş
+## 🚀 Merhaba
 
 2010 yılında dünyaya geldim ve teknolojinin kalbinde büyüdüm. Yazılım dünyasına olan yolculuğum **2022-2023** yıllarında, kodların gizemli dünyasını keşfetmemle birlikte profesyonel bir boyuta taşındı. O günden bu yana kendimi sürekli geliştiriyor, yeni teknolojiler öğreniyor ve soyut fikirleri dijital gerçekliğe dönüştürüyorum.
 
