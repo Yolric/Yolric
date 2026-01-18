@@ -206,6 +206,7 @@ Eğer projelerimi beğendiyseniz veya üzerinde konuşmak istediğiniz bir fikri
 </p>
 
 * **💬 Discord:** $\color{cyan}{\text{Nick: emirhuseyin}}$
+* **📧 Email Adres:** support@yolric.com.tr
 * **🌐 Medya:** https://www.instagram.com/yolric.css_bittimi
 
 
