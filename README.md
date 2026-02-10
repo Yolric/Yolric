@@ -138,12 +138,8 @@ Modern ve estetik web arayüzleri tasarlarken performansı ve kullanıcı deneyi
 
 ## 📊 GitHub Analitiği
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirhuseyinyuce&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yolric&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhuseyinyuce&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-
 
 
 
