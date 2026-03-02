@@ -16,24 +16,25 @@
 
 ## 📑 İçindekiler
 
-1. [🚀 Merhaba ve Giriş](#-merhaba)
-2. [📖 Hakkımda Daha Fazlası](#-hakkımda-daha-fazlası)
-3. [🛠️ Teknik Yetenekler](#️-teknik-yetenekler-ve-araç-çantası)
-4. [📈 Yazılım Yolculuğum](#-yazılım-yolculuğum-ve-istatistikler)
-5. [📊 GitHub Analitiği](#-github-analitiği)
-6. [🤝 İş Birliği ve İletişim](#-iş-birliği-ve-iletişim)
-7. [🏆 Başarılarım](#-başarılarım--sertifikalar)
-8. [💬 Benimle Bağlantı Kurun](#-benimle-bağlantı-kurun)
-9. [⚡ Eğlenceli Gerçekler](#-eğlenceli-gerçekler)
+1.  [🚀 Merhaba ve Giriş](#-merhaba)
+2.  [📖 Hakkımda Daha Fazlası](#-hakkımda-daha-fazlası)
+3.  [🛠️ Teknik Yetenekler ve Araç Çantası](#️-teknik-yetenekler-ve-araç-çantası)
+4.  [🌐 Web Geliştirme (Frontend & Backend)](#-web-geliştirme-frontend--backend)
+5.  [💻 Yazılım & Sistem](#-yazılım--sistem)
+6.  [📈 Yazılım Yolculuğum ve İstatistikler](#-yazılım-yolculuğum-ve-istatistikler)
+7.  [📊 GitHub Analitiği](#-github-analitiği)
+8.  [🤝 İş Birliği ve İletişim](#-iş-birliği-ve-iletişim)
+9.  [🏆 Başarılarım](#-başarılarım--sertifikalar)
+10. [💬 Benimle Bağlantı Kurun](#-benimle-bağlantı-kurun)
+11. [⚡ Eğlenceli Gerçekler](#-eğlenceli-gerçekler)
 
 ---
 
 ## 🚀 Merhaba
-Yazılım dünyasına olan yolculuğum **2022-2023** yıllarında, kodların gizemli dünyasını keşfetmemle birlikte profesyonel bir boyuta taşındı. O günden bu yana kendimi sürekli geliştiriyor, yeni teknolojiler öğreniyor ve soyut fikirleri dijital gerçekliğe dönüştürüyorum.
+Yazılım dünyasına olan yolculuğum **2022-2023** yıllarında başladı. O günden bu yana kendimi sürekli geliştiriyor, yeni teknolojiler öğreniyor ve soyut fikirleri dijital gerçekliğe dönüştürüyorum.
 
 ## 📖 Hakkımda Daha Fazlası
-
-Yazılım benim için sadece bir iş veya hobi değil, bir **problem çözme sanatı**. Her satır kodda daha verimli, daha hızlı ve daha kullanıcı dostu çözümler üretmeyi hedefliyorum.
+Yazılım benim için bir **problem çözme sanatı**. Her satır kodda daha verimli, daha hızlı ve daha kullanıcı dostu çözümler üretmeyi hedefliyorum.
 
 * **Odak Noktam:** Modern Web Teknolojileri ve Sistem Mimarileri.
 * **Vizyonum:** Açık kaynak dünyasına değer katan, global ölçekte projeler geliştirmek.
@@ -45,61 +46,57 @@ Yazılım benim için sadece bir iş veya hobi değil, bir **problem çözme san
 
 ### 🌐 Web Geliştirme (Frontend & Backend)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 💻 Yazılım & Sistem
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
 ## 📈 Yazılım Yolculuğum ve İstatistikler
-**2022-2023'ten bu yana:**
 - ✅ **Onlarca satır temiz kod** titizlikle yazıldı.
 - 💡 **Birçok farklı proje fikri** başarıyla hayata geçirildi.
 - 📚 **Sürekli güncel kalan** bir teknoloji kütüphanesi oluşturuldu.
 
 ## 📊 GitHub Analitiği
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yolric&show_icons=true&theme=tokyonight&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yolric&layout=compact&theme=tokyonight&title_color=00b4d8&text_color=ffffff&bg_color=0d1117&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yolric&show_icons=true&theme=tokyonight&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolric&layout=compact&theme=tokyonight&title_color=00b4d8&text_color=ffffff&bg_color=0d1117&hide_border=true" width="40%" />
 </p>
 
 ---
 
 ## 🤝 İş Birliği ve İletişim
-Benimle her türlü proje, iş birliği veya sadece teknik sohbet için iletişime geçebilirsiniz.
-
 * **İş Birliği:** Yeni ve yenilikçi projelerde yer almaya her zaman açığım.
 * **Teknik Destek:** Web tasarımı veya yazılım süreçlerinde yardımcı olabilirim.
-* **Donanım:** Sistem optimizasyonu konularında fikir alışverişi yapabiliriz.
+* **Donanım:** Donanım seçimleri ve optimizasyon konularında fikir alışverişi yapabiliriz.
 
 ## 🏆 Başarılarım & Sertifikalar
 * 🥇 **Kodland Python Level 1** - Birincilik Sertifikası
 * 🥇 **Kodland Python Pro Level 2** - Birincilik Sertifikası
 * 🛡️ **Siber Güvenlik Uzmanlık Sertifikası** (BMD)
-* 🎮 **Oyun Geliştirme:** Unity ve Unreal Engine projeleri.
 
 ## 💬 Benimle Bağlantı Kurun
 <p align="left">
 <a href="https://www.instagram.com/yolric.css_bittimi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=yolric" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=emirhuseyin" />
 </p>
 
 * **📧 Email Adres:** bilgi@yolric.info
-* **🌐 Medya:** [yolric.software](https://www.instagram.com/yolric.software)
+* **🌐 Web:** [yolric.software](https://www.instagram.com/yolric.software)
 
 ---
 
 ## ⚡ Eğlenceli Gerçekler
-* ☕ Kod yazarken en büyük eşlikçim yüksek ritimli müziklerdir.
+* ☕ Kod yazarken en büyük eşlikçim odaklanmamı sağlayan yüksek ritimli müziklerdir.
+* 🐧 Açık kaynaklı yazılımları ve özgür yazılım felsefesini destekliyorum.
 * 🚀 **Hedefim:** Geleceğin teknolojilerini bugünden inşa etmek.
 
 <p align="center">
