@@ -68,8 +68,8 @@ Yazılım benim için sadece bir iş veya hobi değil, bir **problem çözme san
 
 ## 📊 GitHub Analitiği
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yolric&show_icons=true&theme=tokyonight&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolric&layout=compact&theme=tokyonight&title_color=00b4d8&text_color=ffffff&bg_color=0d1117&hide_border=true" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yolric&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yolric&theme=tokyonight" width="40%" />
 </p>
 
 ---
