@@ -90,7 +90,7 @@ Benimle her türlü proje, iş birliği veya sadece teknik sohbet için iletişi
 ## 💬 Benimle Bağlantı Kurun
 <p align="left">
 <a href="https://www.instagram.com/yolric.css_bittimi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=emirhuseyin" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=yolric" />
 </p>
 
 * **📧 Email Adres:** bilgi@yolric.info
