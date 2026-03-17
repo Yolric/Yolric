@@ -7,7 +7,6 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center" style="border: 2px solid #00b4d8; border-radius: 10px; background-color: #0d1117; padding: 15px;">
   </table>
 </p>
 
