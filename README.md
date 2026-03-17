@@ -8,7 +8,7 @@
   <table align="center">
     <tr>
       <td align="center" style="border: 2px solid #00b4d8; border-radius: 10px; background-color: #0d1117; padding: 15px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00b4d8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+Candidate;Game+Dev+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Dinamik Unvanlar" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00b4d8&center=true&vCenter=true&width=520&lines=;Game+Dev+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Dinamik Unvanlar" />
       </td>
     </tr>
   </table>
