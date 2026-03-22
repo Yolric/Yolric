@@ -16,7 +16,6 @@
 2. [📖 Hakkımda Daha Fazlası](#-hakkımda-daha-fazlası)
 3. [🛠️ Teknik Yetenekler](#️-teknik-yetenekler-ve-araç-çantası)
 4. [📈 Yazılım Yolculuğum](#-yazılım-yolculuğum-ve-istatistikler)
-5. [📊 GitHub Analitiği](#-github-analitiği)
 6. [🤝 İş Birliği ve İletişim](#-iş-birliği-ve-iletişim)
 7. [🏆 Başarılarım](#-başarılarım--sertifikalar)
 8. [💬 Benimle Bağlantı Kurun](#-benimle-bağlantı-kurun)
@@ -61,11 +60,6 @@ Yazılım benim için sadece bir iş veya hobi değil, bir **problem çözme san
 - ✅ **Onlarca satır temiz kod** titizlikle yazıldı.
 - 💡 **Birçok farklı proje fikri** başarıyla hayata geçirildi.
 - 📚 **Sürekli güncel kalan** bir teknoloji kütüphanesi oluşturuldu.
-
-## 📊 GitHub Analitiği
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yolric&layout=compact&theme=tokyonight&border_radius=10" width="40%" />
-</p>
 
 ---
 
