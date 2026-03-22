@@ -24,7 +24,7 @@
 ---
 
 ## 🚀 Merhaba
-Yazılım dünyasına olan yolculuğum **2022-2023** yıllarında, kodların gizemli dünyasını keşfetmemle birlikte profesyonel bir boyuta taşındı. O günden bu yana kendimi sürekli geliştiriyor, yeni teknolojiler öğreniyor ve soyut fikirleri dijital gerçekliğe dönüştürüyorum.
+"Yazılım dünyasına olan tutkum, **2022-2023** yıllarında kodların evrenini keşfetmemle birlikte profesyonel bir boyut kazandı. O günden bu yana veri yapıları, modern araç setleri ve yeni nesil teknolojilerle yetkinliklerimi her geçen gün bir üst seviyeye taşıyorum. Yalnızca kod yazmıyor; soyut fikirleri işlevsel, ölçeklenebilir ve yenilikçi dijital gerçekliklere dönüştürüyorum. Sürekli gelişim vizyonuyla, teknolojinin sunduğu imkanları karmaşık problemleri çözmek için kullanmaya devam ediyorum."
 
 ## 📖 Hakkımda Daha Fazlası
 
