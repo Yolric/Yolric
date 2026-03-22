@@ -108,5 +108,5 @@ Benimle her türlü proje, iş birliği veya sadece teknik sohbet için iletişi
 * 🚀 **Hedefim:** Geleceğin teknolojilerini bugünden inşa etmek.
 
 <p align="center">
-<i>Bu profil <b>Emir Hüseyin</b> tarafından tutkuyla geliştirilmiştir. © 2025</i>
+<i> <3 <b>Emir Hüseyin</b> tarafından sevgi ile. © 2025</i>
 </p>
